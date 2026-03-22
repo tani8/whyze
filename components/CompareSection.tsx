@@ -13,10 +13,10 @@ export default function CompareSection() {
         How We Compare
       </p>
       <h2 className="font-display text-[clamp(32px,4vw,48px)] font-black text-white tracking-tight leading-[1.1] mb-4">
-        Finally, an edge over UWorld
+        A new kind of exam prep
       </h2>
       <p className="text-[17px] text-white/60 leading-relaxed max-w-[520px] mb-12">
-        UWorld has thousands of questions. Whyze has something more powerful: it knows{' '}
+        Most platforms give you thousands of questions. Whyze gives you something more powerful: it knows{' '}
         <em className="not-italic font-semibold text-white/80">your</em> gaps.
       </p>
 
@@ -26,7 +26,7 @@ export default function CompareSection() {
             <tr>
               <th className="text-left px-6 py-4 text-[13px] font-semibold tracking-widest uppercase text-white/40" />
               <th className="text-left px-6 py-4 text-[13px] font-semibold tracking-widest uppercase text-white/40">
-                UWorld / Archer
+                Other platforms
               </th>
               <th className="text-left px-6 py-4 text-[13px] font-semibold tracking-widest uppercase text-teal-light">
                 Whyze

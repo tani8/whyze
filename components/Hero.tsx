@@ -47,7 +47,7 @@ export default function Hero() {
 
         {/* Subhead */}
         <p className="text-lg leading-relaxed text-[#6B7280] max-w-[480px] mb-10 fade-up">
-          Every other platform shows you the right answer.{' '}
+          Most study tools show you the right answer and move on.{' '}
           <strong className="text-navy font-semibold">Whyze gives you a personalized AI explanation</strong>{' '}
           of your exact reasoning error — so you never make the same mistake twice.
         </p>
